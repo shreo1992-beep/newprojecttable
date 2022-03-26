@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gainsboro;
+    font-family: Arial,sans-serif;
+
+}
+
+header{
+    text-align: center;
+}
+header h1{
+    margin-top:10px;
+}
+
+header h2{
+    margin:20px 0;
+    color: rebeccapurple;
+}
+
+table
+{
+    margin: 0 auto;
+    border: 2px solid darkorchid;
+    width: 650px;
+
+}
+
+thead
+{
+    background-color: plum;
+}
+
+.code{
+    font-family:monospace;
+    background-color:beige;
+}
+
+tbody tr 
+{
+    text-align: left;
+
+}
+td{
+    border-top: 1px solid darkorchid;
+}
